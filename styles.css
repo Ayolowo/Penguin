@@ -79,7 +79,9 @@ body {
   left: 23.5%;
 }
 
-
+.penguin-body::before{
+  content: "";
+}
 
 .ground {
   width: 100vw;
